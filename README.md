@@ -1,8 +1,4 @@
-# Advent Of Code
+# Advent Of Code 2023
 
-This repository is to maintain all of my solutions to AOC throughout the years,
-each given year has a branch, and in each branch there are directories for each day, and the problem asked.
-
-## Contributing
-
-if you would like to contribute to any of my solutions, just make a pull request. 
+## structure
+This branch has all my 2023 solutions, each day has a respective directory in the format of `day-language`.
